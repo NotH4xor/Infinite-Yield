@@ -1,3 +1,6 @@
+# Original
+https://raw.githubusercontent.com/EdgeIY/infiniteyield/refs/heads/master/source
+
 # Infinite-Yield Source
 ```
 if IY_LOADED and not _G.IY_DEBUG == true then
