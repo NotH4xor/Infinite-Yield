@@ -1,5 +1,5 @@
 # Original
-https://raw.githubusercontent.com/EdgeIY/infiniteyield/refs/heads/master/source
+https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source
 
 # Infinite-Yield Source
 ```
